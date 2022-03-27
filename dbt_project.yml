@@ -38,3 +38,5 @@ models:
       materialized: table
     covid19_Analysis:
       materialized: table
+    covid19_Analysis_MergedTables:
+      materialized: table
